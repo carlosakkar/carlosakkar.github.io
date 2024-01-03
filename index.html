@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dağhan Carlos Akkar</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .left-side {
+            flex-basis: calc(50% - 10px);
+            margin-right: 10px;
+        }
+
+        .right-side {
+            flex-basis: calc(50% - 10px);
+            margin-left: 10px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .email,
+        .cv {
+            margin: 10px 0;
+        }
+
+        .name {
+            color: #333;
+        }
+
+        .greeting {
+            color: #666;
+        }
+
+        .research a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+
+        .research li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="left-side">
+            <img src="images/researcher_stick.jpeg" alt="Researcher Stick Image">
+            <p class="email"><a href="mailto:daghan.akkar@economics.ox.ac.uk">Email: daghan.akkar@economics.ox.ac.uk</a></p>
+            <p class="cv"><a href="/docs/CV_Academic_HT23.pdf">CV (PDF)</a></p>
+        </div>
+        <div class="right-side">
+            <h1 class="name">Dağhan Carlos Akkar</h1>
+            <p class="greeting">Hi!</p>
+            <ul class="research">
+                <li>
+                    <a href="/docs/cos_draft.pdf">Confirmation of Status</a>
+                    <p>This was my COS submission.</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+</body>
+
+</html>
