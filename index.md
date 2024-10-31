@@ -54,10 +54,11 @@ A lobbyist wants to sway a committee towards implementing a policy by publicly d
 
 * Dr. Ian Jewitt: ian.jewitt (AT) nuffield.ox.ac.uk 
 <!-- <a href="mailto:ian.jewitt@nuffield.ox.ac.uk">ian.jewitt@nuffield.ox.ac.uk</a> -->
-* Dr. Daniel Quigley: daniel.quigley (AT) economics.ox.ac.uk 
-<!-- <a href="mailto:daniel.quigley@economics.ox.ac.uk">daniel.quigley@economics.ox.ac.uk</a> -->
 * Dr. Margaret (Meg) Meyer: margaret.meyer (AT) nuffield.ox.ac.uk 
 <!-- <a href="mailto:margaret.meyer@nuffield.ox.ac.uk">margaret.meyer@nuffield.ox.ac.uk</a> -->
+* Dr. Daniel Quigley: daniel.quigley (AT) economics.ox.ac.uk 
+<!-- <a href="mailto:daniel.quigley@economics.ox.ac.uk">daniel.quigley@economics.ox.ac.uk</a> -->
+
 
 <br />
 <br />
