@@ -40,7 +40,7 @@ A lobbyist wants to sway a committee towards implementing a policy by publicly d
 <br />
 
 
-**Collusive College Admissions** (Pre-PhD draft under major revision---please contact!) <!-- [paper] [short talk] [long talk] -->
+**Collusive College Admissions** (under major revision---reach out!) <!-- [paper] [short talk] [long talk] -->
 
 <details>
   <summary>Abstract</summary>
