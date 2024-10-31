@@ -2,7 +2,7 @@ Welcome!
 
 I am an economic theorist focusing on the economics of information. I am currently a DPhil (PhD) student at the University of Oxford. 
 
-I am on the <span style="color: #c00000;">2024 - 2025 Job Market</span>. Here is my CV.
+I am on the <span style="color: #c00000;">2024 - 2025 Job Market</span>. Here is my [CV](docs/akkar_cv.pdf).
 
 Reach me: akkarcarlos (AT) gmail.com
 
