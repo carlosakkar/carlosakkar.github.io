@@ -70,6 +70,14 @@ a {
   font-weight: normal; /* Normal font weight */
 }
 
+/* Change color on hover */
+a:hover {
+  color: #cc0000; /* Set hover color to #cc0000 */
+  background-color: transparent; /* Remove any background color */
+  text-decoration: none; /* Ensure no underline on hover */
+  transition: color 0.2s; /* Optional: Smooth transition for color change */
+}
+
 /* Footer styling */
 
 .footer-text {
