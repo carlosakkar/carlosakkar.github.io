@@ -15,7 +15,7 @@ Reach me: akkarcarlos (AT) gmail.com
 **The (Mis)use of Information in Decentralised Markets** (coming soon!) <!-- [paper] [short talk] [long talk] -->
 
 <details>
-  <summary>Abstract</summary>![image](https://github.com/user-attachments/assets/31a9019d-b644-4ac6-a23e-8aef441236c8)
+  <summary>Abstract</summary>
 
 
   <br />
@@ -34,7 +34,7 @@ I study whether a decentralised market for a common value asset becomes more eff
   <summary>Abstract</summary>
 
   <br />  
-A lobbyist wants to sway a committee towards implementing a policy by publicly designing and revealing the outcome of an experiment. Each committee member prefers to adopt the policy if the probability of its success exceeds her personal threshold. After the lobbyist reveals the outcome and before they vote, each committee member acquires additional---flexible and costly---private information about the chance of success. The optimal voting rule is _dictatorial_: it maximises the probability of adoption for a policy that will succeed, minimises it for a policy that will fail, and minimises every member’s information acquisition cost. The optimal dictator is _the most demanding member_---the member who would acquire the most evidence in favour of the policy before she implements it. 
+A lobbyist wants to sway a committee towards implementing a policy by publicly designing and revealing the outcome of an experiment. Each committee member prefers to adopt the policy if the probability of its success exceeds her personal threshold. After the lobbyist reveals the outcome and before they vote, each committee member acquires additional---flexible and costly---private information about the chance of success. The optimal voting rule is <em>dictatorial</em>: it maximises the probability of adoption for a policy that will succeed, minimises it for a policy that will fail, and minimises every member’s information acquisition cost. The optimal dictator is <em>the most demanding member</em>---the member who would acquire the most evidence in favour of the policy before she implements it. 
   
 </details>
 <br />
@@ -46,7 +46,7 @@ A lobbyist wants to sway a committee towards implementing a policy by publicly d
   <summary>Abstract</summary>
 
   <br />
-  I study a matching market á la Azevedo and Leshno (2016), with two colleges and a continuum of students. Students are vertically differentiated in their ``promise''; both colleges prefer students with higher promise. Colleges are vertically differentiated over their (i) prestige and (ii) quality investments; students' preferences over these pairs are identical. There is aggregate uncertainty over colleges' capacities. I show that the Boston mechanism might leave both colleges better off relative to a mechanism that produces the unique ex post stable outcome, such as Deferred Acceptance. The college with lower prestige benefits from an _allocative effect_: it attracts promising students its rival could have enrolled as the safe option. The college with greater prestige benefits from a _competitive effect_: by conceding some promising students to its rival, it attenuates competition for the most promising ones. I discuss how my finding can explain long-standing frictions in global college admission mechanisms. 
+  I study a matching market á la Azevedo and Leshno (2016), with two colleges and a continuum of students. Students are vertically differentiated in their ``promise''; both colleges prefer students with higher promise. Colleges are vertically differentiated over their (i) prestige and (ii) quality investments; students' preferences over these pairs are identical. There is aggregate uncertainty over colleges' capacities. I show that the Boston mechanism might leave both colleges better off relative to a mechanism that produces the unique ex post stable outcome, such as Deferred Acceptance. The college with lower prestige benefits from an <em>allocative effect</em>: it attracts promising students its rival could have enrolled as the safe option. The college with greater prestige benefits from a <em>competitive effect</em>: by conceding some promising students to its rival, it attenuates competition for the most promising ones. I discuss how my finding can explain long-standing frictions in global college admission mechanisms. 
   
 </details>
 <br />
