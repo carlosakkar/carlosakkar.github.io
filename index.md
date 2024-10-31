@@ -4,21 +4,21 @@ I am an economic theorist focusing on the economics of information. I am current
 
 I am on the <span style="color: #c00000;">2024 - 2025 Job Market</span>. Here is my CV.
 
-Reach me: daghan.akkar (AT) economics.ox.ac.uk
+Reach me: akkarcarlos (AT) gmail.com
 
-<!-- <a href="mailto:daghan.akkar@economics.ox.ac.uk">daghan.akkar@economics.ox.ac.uk</a> -->
+<!-- <a href="mailto:akkarcarlos@gmail.com">akkarcarlos@gmail.com</a> -->
 
 <br />
 
 # Job Market Paper
 
-**Information in Decentralised Evaluations** [paper] [short talk] [long talk]
+**The (Mis)use of Information in Decentralised Markets** (coming soon!) <!-- [paper] [short talk] [long talk] -->
 
 <details>
   <summary>Abstract</summary>
 
   <br />
-  Abstract JMP. 
+I study whether a decentralised market for a common value asset becomes more efficient with more information in the market, either through (i) more buyers, or (ii) better informed buyers. More information may help buyers screen the asset's value better and execute better trades. But it may also exacerbate adverse selection and push them to worse trades&mdashthere is greater downside to trading when others refused to. The _kind_ of information buyers have determines which force prevails. Efficiency is eventually decreasing (increasing) in the number of buyers and converges to its lower (upper) bound when buyers’ signals have bounded (unbounded) likelihood ratio at the top. Unless _adverse selection is irrelevant_, efficiency decreases (increases) when buyers get a _positive (negative) override_&mdashinformation which helps them reconsider a seller they would have rejected (traded with). For binary signals, this yields a sharp characterisation: stronger good news increase, but stronger bad news eventually decrease efficiency.
   
 </details>
 <br />
@@ -27,25 +27,25 @@ Reach me: daghan.akkar (AT) economics.ox.ac.uk
 
 # Working Papers
 
-**Paper 2** [paper] [short talk] [long talk]
+**Capture-Resistant Committee Design** (coming soon!) <!-- [paper] [short talk] [long talk] -->
 
 <details>
   <summary>Abstract</summary>
 
-  <br />
-  Abstract 2.
+  <br />  
+A lobbyist wants to sway a committee towards implementing a policy by publicly designing and revealing the outcome of an experiment. Each committee member prefers to adopt the policy if the probability of its success exceeds her personal threshold. After the lobbyist reveals the outcome and before they vote, each committee member acquires additional&mdashflexible and costly&mdashprivate information about the chance of success. The optimal voting rule is _dictatorial_: it maximises the probability of adoption for a policy that will succeed, minimises it for a policy that will fail, and minimises every member’s information acquisition cost. The optimal dictator is _the most demanding member_&mdashthe member who would acquire the most evidence in favour of the policy before she implements it. 
   
 </details>
 <br />
 
 
-**Paper 3** [paper] [short talk] [long talk]
+**Collusive College Admissions** (Pre-PhD draft under major revision&mdashplease contact!) <!-- [paper] [short talk] [long talk] -->
 
 <details>
   <summary>Abstract</summary>
 
   <br />
-  Abstract 3.
+  I study a matching market á la Azevedo and Leshno (2016), with two colleges and a continuum of students. Students are vertically differentiated in their ``promise''; both colleges prefer students with higher promise. Colleges are vertically differentiated over their (i) prestige and (ii) quality investments; students' preferences over these pairs are identical. There is aggregate uncertainty over colleges' capacities. I show that the Boston mechanism might leave both colleges better off relative to a mechanism that produces the unique ex post stable outcome, such as Deferred Acceptance. The college with lower prestige benefits from an _allocative effect_: it attracts promising students its rival could have enrolled as the safe option. The college with greater prestige benefits from a _competitive effect_: by conceding some promising students to its rival, it attenuates competition for the most promising ones. I discuss how my finding can explain long-standing frictions in global college admission mechanisms. 
   
 </details>
 <br />
