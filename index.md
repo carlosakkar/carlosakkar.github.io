@@ -34,7 +34,7 @@ A seller offers an asset in a decentralised market. Buyers have private signals 
   <summary>Abstract</summary>
 
   <br />  
-A lobbyist wants to sway a committee towards implementing a policy by publicly designing and revealing the outcome of an experiment. Each committee member prefers to adopt the policy if the probability of its success exceeds her personal threshold. After the lobbyist reveals the outcome and before they vote, each committee member acquires additional---flexible and costly---private information about the chance of success. A <em>dictatorial</em> voting rule is optimal; it maximises the probability of adoption for a policy that will succeed, minimises it for a policy that will fail, and minimises every member’s information acquisition cost. The optimal dictator is <em>the most demanding member</em>---the member who would acquire the most evidence in favour of the policy before she implements it. 
+A lobbyist wants to sway a committee towards implementing a policy by publicly designing and revealing the outcome of an experiment. Each committee member prefers to adopt the policy if the probability of its success exceeds her personal threshold. After the lobbyist reveals the outcome and before they vote, each committee member acquires additional, flexible but costly, private information about the chance of success. A <em>dictatorial</em> voting rule is optimal; it maximises the probability of adoption for a policy that will succeed, minimises it for a policy that will fail, and minimises every member’s information acquisition cost. The optimal dictator is <em>the most demanding member</em>---the member who would acquire the most evidence in favour of the policy before she implements it. 
   
 </details>
 <br />
