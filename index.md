@@ -12,7 +12,9 @@ Reach me: akkarcarlos (AT) gmail.com
 
 # Job Market Paper
 
-**The (Mis)use of Information in Decentralised Markets** (coming soon!) <!-- [paper] [short talk] [long talk] -->
+<strong><a href="docs/jmp.pdf" class="paper-link">**The (Mis)use of Information in Decentralised Markets**</a></strong>
+
+<!-- **The (Mis)use of Information in Decentralised Markets** (coming soon!) <!-- [paper] [short talk] [long talk] --> -->
 
 <details>
   <summary>Abstract</summary>
