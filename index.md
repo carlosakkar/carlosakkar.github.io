@@ -14,7 +14,7 @@ Reach me: akkarcarlos (AT) gmail.com
 
 <strong><a href="docs/jmp.pdf" class="paper-link">**The (Mis)use of Information in Decentralised Markets**</a></strong>
 
-<!-- **The (Mis)use of Information in Decentralised Markets** (coming soon!) <!-- [paper] [short talk] [long talk] --> -->
+<!-- **The (Mis)use of Information in Decentralised Markets** (coming soon!) <!-- [paper] [short talk] [long talk] -->
 
 <details>
   <summary>Abstract</summary>
