@@ -78,6 +78,22 @@ a:hover {
   transition: color 0.2s; /* Optional: Smooth transition for color change */
 }
 
+/* Paper Link Styling */
+/* Style for paper title links */
+.paper-link {
+  color: black; /* Keep the color black */
+  font-weight: bold; /* Ensure the font is bold */
+  text-decoration: none; /* No underline */
+}
+
+/* Hover effect for paper title links */
+.paper-link:hover {
+  color: black; /* Ensures color remains black on hover */
+  text-decoration: none; /* No underline on hover */
+  transition: none; /* No transition effect */
+}
+
+
 /* Footer styling */
 
 .footer-text {
