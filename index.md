@@ -67,6 +67,6 @@ I study a matching market à la Azevedo and Leshno (2016), with two colleges and
 <br />
 <br />
 <p style="text-align: center; color: #a9a9a9; font-size: 8px;">
-  Hosted on GitHub Pages ---; Theme by 
+  <span style="color: transparent;">Daghan Carlos Akkar</span> Hosted on GitHub Pages ---; Theme by 
   <a href="https://github.com/orderedlist" style="color: inherit; text-decoration: underline;">orderedlist</a>
 </p>
