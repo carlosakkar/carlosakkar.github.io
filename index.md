@@ -1,8 +1,10 @@
 Welcome! 
 
-I am a microeconomic theorist with a focus on information economics. I am currently a DPhil (PhD) student at the University of Oxford. 
+I am a microeconomic theorist with a focus on information economics. I am currently a DPhil (PhD) student at the University of Oxford. Here is my [CV](docs/akkar_cv.pdf).
 
-I am on the <span style="color: #c00000;">2024 - 2025 Job Market</span>. Here is my [CV](docs/akkar_cv.pdf).
+In September 2025, I will be joining Charles River Associates (London) as a Senior Associate.
+
+<!-- I am on the <span style="color: #c00000;">2024 - 2025 Job Market</span>. -->
 
 Reach me: akkarcarlos (AT) gmail.com
 
