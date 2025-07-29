@@ -15,6 +15,7 @@ Reach me: akkarcarlos (AT) gmail.com
 # Working Papers
 
 <strong><a href="https://arxiv.org/pdf/2506.06848" class="paper-link">**The (Mis)use of Information in Decentralised Markets**</a></strong> 
+
 (Job Market Paper)
 
 <!-- **The (Mis)use of Information in Decentralised Markets** (coming soon!) <!-- [paper] [short talk] [long talk] -->
