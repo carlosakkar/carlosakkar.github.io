@@ -12,9 +12,9 @@ Reach me: akkarcarlos (AT) gmail.com
 
 <br />
 
-# Job Market Paper
+# Working Papers
 
-<strong><a href="https://arxiv.org/pdf/2506.06848" class="paper-link">**The (Mis)use of Information in Decentralised Markets**</a></strong>
+<strong><a href="https://arxiv.org/pdf/2506.06848" class="paper-link">**The (Mis)use of Information in Decentralised Markets**</a></strong> (Job Market Paper)
 
 <!-- **The (Mis)use of Information in Decentralised Markets** (coming soon!) <!-- [paper] [short talk] [long talk] -->
 
@@ -28,20 +28,33 @@ A seller offers an asset in a decentralised market. Buyers have private signals 
 </details>
 <br />
 
-
-
-# Working Papers
-
 **Optimally Dictatorial Committees** (coming soon!) <!-- [paper] [short talk] [long talk] -->
 
 <details>
   <summary>Abstract</summary>
 
   <br />  
-  I study the optimal voting mechanism for a committee that must decide whether to enact or block a policy of unknown benefit. Information can come both from committee members who can acquire it at cost, and a strategic lobbyist who wishes the policy to be enacted. I show that the <em>dictatorship of the most-demanding member<em> is a <em>dominant<em> voting mechanism: any other voting mechanism is (i) less likely to enact a good policy, (ii) more likely to enact a bad policy, and (iii) burdens every member with a greater cost of acquiring information.
+  I study the optimal voting mechanism for a committee that must decide whether to enact or block a policy of unknown benefit. Information can come both from committee members who can acquire it at cost, and a strategic lobbyist who wishes the policy to be enacted. I show that the <em>dictatorship of the most-demanding member</em> is a <em>dominant</em> voting mechanism: any other voting mechanism is (i) less likely to enact a good policy, (ii) more likely to enact a bad policy, and (iii) burdens every member with a greater cost of acquiring information.
   
 </details>
 <br />
+
+
+# Pre-PhD Papers
+
+**Collusive College Admissions** (reach out for draft) <!-- [paper] [short talk] [long talk] -->
+
+<details>
+  <summary>Abstract</summary>
+
+  <br />  
+  Two colleges compete for students by making costly investments. Students face uncertainty about colleges' quotas. I compare a regime where students can freely apply to both colleges with another where they can only apply to one. The former regime always generates a stable matching of students to colleges. However, colleges might be better off in the latter regime: the low-ranked college benefits from an <em>allocative effect</em> whereby it enrols better students, and the high-ranked college benefits from a <em>competitive effect</em> which decreases the competition for the best students. This incentivises colleges to coordinate their application policies and prevent students from applying to both. 
+    This finding helps explain the global persistence of college admission systems that generate unstable matchings.
+  
+</details>
+<br />
+
+
 
 # Supervisors and Letter Writers
 
