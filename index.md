@@ -46,7 +46,7 @@ A seller offers an asset in a decentralised market. Buyers have private signals 
 
 # Pre-PhD Papers
 
-**Collusive College Admissions** (reach out for draft) <!-- [paper] [short talk] [long talk] -->
+Collusive College Admissions (reach out for draft) <!-- [paper] [short talk] [long talk] -->
 
 <details>
   <summary>Abstract</summary>
