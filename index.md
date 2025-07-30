@@ -30,7 +30,9 @@ A seller offers an asset in a decentralised market. Buyers have private signals 
 </details>
 <br />
 
-**Optimally Dictatorial Committees** (coming soon!) <!-- [paper] [short talk] [long talk] -->
+<!-- **Optimally Dictatorial Committees** (coming soon!) <!-- [paper] [short talk] [long talk] -->
+
+<strong><a href="[https://arxiv.org/pdf/2506.06848](https://arxiv.org/pdf/2507.21699)" class="paper-link">**Optimally Dictatorial Committees**</a></strong> 
 
 <details>
   <summary>Abstract</summary>
