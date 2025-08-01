@@ -38,7 +38,7 @@ A seller offers an asset in a decentralised market. Buyers have private signals 
   <summary>Abstract</summary>
 
   <br />  
-  I study the optimal voting mechanism for a committee that must decide whether to enact or block a policy of unknown benefit. Information can come both from committee members who can acquire it at cost, and a strategic lobbyist who wishes the policy to be enacted. I show that the <em>dictatorship of the most-demanding member</em> is a <em>dominant</em> voting mechanism: any other voting mechanism is (i) less likely to enact a good policy, (ii) more likely to enact a bad policy, and (iii) burdens every member with a greater cost of acquiring information.
+  I study the optimal voting mechanism for a committee that must decide whether to enact or block a policy of unknown benefit. Information can come both from committee members who can acquire it at cost, and a strategic lobbyist who wishes the policy to be enacted. I show that the <em>dictatorship of the most-demanding member</em> is a <em>dominant</em> voting mechanism: any other voting mechanism is (i) less likely to enact a good policy, (ii) more likely to enact a bad policy, and (iii) burdens each member with a greater cost of acquiring information.
   
 </details>
 <br />
